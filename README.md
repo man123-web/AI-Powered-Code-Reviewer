@@ -4,7 +4,7 @@ AI-Powered Code Reviewer - Automatically reviews your code using AI, finds bugs,
 
 > Get your code reviewed by AI in seconds - Find bugs, security issues & improvements instantly.
 
-![AI Reviewer](https://img.shields.io/badge/AI-Powered-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+![AI Reviewer](https://img.shields.io/badge/AI-Powered-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
 
 ### 🔗 Live Demo
 Coming Soon - (Add your deployed link here)
